@@ -349,5 +349,5 @@ def makedirectory():
 	menu_utama()
 
 if __name__=='__main__':
-	makedirectory()
+	makedirectory(888b)
  
