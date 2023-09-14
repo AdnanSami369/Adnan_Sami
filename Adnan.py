@@ -27,7 +27,8 @@ except:
 	
 ###---[ SIMPLE LOGO ]---###	
 def logo():
-	return (
+	return ("""
+ 
      e      888~-_   888b    |      e      888b    | 
     d8b     888   \  |Y88b   |     d8b     |Y88b   | 
    /Y88b    888    | | Y88b  |    /Y88b    | Y88b  | 
@@ -348,4 +349,4 @@ def makedirectory():
 	menu_utama()
 
 if __name__=='__main__':
-	makedirectory(ADNAN)
+	makedirectory(888b)
